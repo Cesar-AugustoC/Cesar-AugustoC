@@ -23,3 +23,7 @@ Sou um **Analista de Dados e Financeiro** apaixonado por otimização de process
 ![Apps Script](https://img.shields.io/badge/Google_Apps_Script-Aprendendo-4285F4?style=flat&logo=google&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Iniciante-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Iniciante-3776AB?style=flat&logo=python&logoColor=white)
+
+---
+
+*"Data is the new oil — mas é o refinamento que gera valor."*
