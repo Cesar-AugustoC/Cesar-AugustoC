@@ -8,8 +8,7 @@ Sou um **Analista de Dados e Financeiro** apaixonado por otimização de process
 * **Análise Preditiva e Gerencial:** Foco em indicadores de performance (KPIs), revisão de custos (KM/Combustível) e saúde financeira.
 
 ### 🛠️ Tech Stack 
-* **Dados:** SQL, Python, Power BI, Advanced Excel.
-* **Metodologia:** Conhecimentos em Programação Orientada a Objetos (POO) e modelagem de dados relacional.
+* **Dados:** SQL, Python, Power BI, Advanced Excel..
 * **Workflow:** Gestão de conhecimento através de **Obsidian** (Smart Note-taking) para documentação de processos técnicos.
 
 ### 🎓 Desenvolvimento Contínuo
